@@ -3,6 +3,7 @@ Telegram notifier
 
 example file structure:
 
+```
 your-app/
 ├── cmd/
 │   └── your-app/
@@ -21,6 +22,7 @@ your-app/
 ├── go.mod
 ├── go.sum
 └── README.md
+```
 
 ---
 
