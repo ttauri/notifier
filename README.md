@@ -1,5 +1,5 @@
 # notifier
-Telegram notifier
+Send notifiations to Telegram
 
 example file structure:
 
